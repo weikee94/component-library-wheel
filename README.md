@@ -12,3 +12,4 @@
 | MS - Machine Learning for Begineers | [Machine Learning for Beginners](https://aka.ms/ml-beginners) |
 | MS - XR Development for Begineers | [XR Development for Beginners](https://aka.ms/xr-dev-for-beginners) |
 | MS - Github Copilot for AI Paired Programming | [Mastering GitHub Copilot for AI Paired Programming](https://aka.ms/GitHubCopilotAI) |
+| 521xueweihan | https://github.com/521xueweihan/HelloGitHub |
